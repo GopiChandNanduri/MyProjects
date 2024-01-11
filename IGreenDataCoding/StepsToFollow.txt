@@ -1,0 +1,57 @@
+1) Make sure you have the latest Visual Studio with version .Net 8
+2) Download the project from Github 
+3) Go to the path "GreenDataRobo\bin\Debug\net6.0"
+4) If you want to give commands from file, open and update the file "InputFile.txt".
+5) Save the file and close.
+6) Run the file "GreenDataRobo.exe"
+7) Follow the on screen commands.
+
+
+Testing :
+
+Valid Commands -
+  - PLACE X,Y,F
+  - MOVE
+  - LEFT
+  - RIGHT
+  - REPORT
+
+where 
+F - NORTH, SOUTH, EAST, WEST
+X - 0,1,2,3,4
+Y - 0,1,2,3,4
+
+
+1) Once you run the application, you can see from the commands need to input 
+	- File
+	- Commands
+2) Suppose you selected File
+3) Make sure you updated all the commands in the file - "GreenDataRobo\bin\Debug\net6.0\InputFile.txt" and properly closed.
+4) Input is casesensitive, 's' and 'S' are different. 
+4) Now you seleced F and press Enter
+5) You can see the output (if you have REPORT in your file)
+6) If you want to continue with other set of commands, then open the above file and update and close it properly. Make sure to save your changes.
+7) Now as mentioned on screen press any key (except 'N') and press Enter.
+8) From step 5 it is repeated again.
+9) If you want to change the input command press 'N' at stage 7.
+10) Now press 'C' and press Enter
+11) You can see - At any point of time, if you want to goto Home, press - 'H'
+12) Now you can give any valid commands or Invalid Commands 
+13) The first valid command to the robot is a PLACE command, after that, 
+	any sequence of commands may be issued, in any order, including another PLACE command. 
+	The application should discard all commands in the sequence until a valid PLACE command has been executed.
+
+14) Few Test Samples I shared below
+MOVE
+LEFT
+PLACE 1,1,EAST
+MOVE
+MOVE
+MOVE
+MOVE
+MOVE
+REPORT
+Outpt: 4,1,EAST
+
+15) In the same way you can play with this.
+
