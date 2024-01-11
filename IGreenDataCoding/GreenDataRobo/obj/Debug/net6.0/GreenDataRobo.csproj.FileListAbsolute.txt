@@ -1,0 +1,15 @@
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.AssemblyInfoInputs.cache
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.AssemblyInfo.cs
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.csproj.CoreCompileInputs.cache
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\GreenDataRobo.exe
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\GreenDataRobo.deps.json
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\GreenDataRobo.runtimeconfig.json
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\GreenDataRobo.dll
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\GreenDataRobo.pdb
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.dll
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\refint\GreenDataRobo.dll
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.pdb
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\GreenDataRobo.genruntimeconfig.cache
+H:\Samples\GreenDataRobo\GreenDataRobo\obj\Debug\net6.0\ref\GreenDataRobo.dll
+H:\Samples\GreenDataRobo\GreenDataRobo\bin\Debug\net6.0\InputFile.txt
