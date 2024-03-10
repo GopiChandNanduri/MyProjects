@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GreenDataRobo.Commands
 {
     // Interface for command execution
-    interface ICommand
+    public interface ICommand
     {
         void Execute();
     }

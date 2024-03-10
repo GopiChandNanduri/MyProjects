@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GreenDataRobo.Commands
 {
     // Concrete command for rotating the robot to the right
-    class RightCommand : ICommand
+    public class RightCommand : ICommand
     {
         private ToyRobot robot;
 

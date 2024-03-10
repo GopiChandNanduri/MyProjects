@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ContosoRecipes</name>
+    </assembly>
+    <members>
+        <member name="M:ContosoRecipes.Controllers.RecipesController.GetDishes(System.Int32)">
+            <summary>
+            get the dishes from existing recipes
+            </summary>
+            <param name="count"></param>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+    </members>
+</doc>

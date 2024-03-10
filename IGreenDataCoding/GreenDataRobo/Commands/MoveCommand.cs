@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GreenDataRobo.Commands
 {
     // Concrete command for moving the robot
-    class MoveCommand : ICommand
+    public class MoveCommand : ICommand
     {
         private ToyRobot robot;
 

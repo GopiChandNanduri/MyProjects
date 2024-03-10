@@ -10,12 +10,14 @@ namespace GreenDataRobo
     /// <summary>
     /// Receiver class representing the toy robot implementing Command pattern
     /// </summary>
-    class ToyRobot
+    public class ToyRobot
     {
         private bool isPlaced = false;
         private int x;
         private int y;
         private string facing;
+
+        public bool IsPlaced { get { return isPlaced; } }
 
         /// <summary>
         /// Placing the Robo

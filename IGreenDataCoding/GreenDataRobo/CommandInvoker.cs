@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace GreenDataRobo
 {
     // Invoker class responsible for executing commands
-    class CommandInvoker
+   public class CommandInvoker
     {
         private List<ICommand> commands = new List<ICommand>();
 

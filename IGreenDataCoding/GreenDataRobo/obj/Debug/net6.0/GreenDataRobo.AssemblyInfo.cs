@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenDataRobo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e81b786346c1dc43ec9fa6002ad4b7e3d77733")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenDataRobo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenDataRobo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

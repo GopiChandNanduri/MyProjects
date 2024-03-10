@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GreenDataRobo.Commands
 {
     // Concrete command for reporting the robot's position
-    class ReportCommand : ICommand
+    public class ReportCommand : ICommand
     {
         private ToyRobot robot;
 

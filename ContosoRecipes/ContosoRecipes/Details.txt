@@ -1,0 +1,13 @@
+Nuget Packages
+------------------------
+
+Microsoft.AspNetCore.JsonPatch
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
+
+Swashbuckle.AspNetCore
+Swashbuckle.AspNetCore.Newtonsoft
+
+
+httprepl
+----------------------------
+dotnet tool install -g Microsoft.dotnet-httprepl

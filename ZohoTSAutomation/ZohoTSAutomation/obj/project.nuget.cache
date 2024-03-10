@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4Ec5p2rVR6pe7cnNaIAfE5ZkHYNfLDDvFKbgo0aydkT00u2TdQk67JwuHWuBvNem4oa0qMDLK1obhGONIsVnw==",
+  "success": true,
+  "projectFilePath": "H:\\gitPublic\\ZohoTSAutomation\\ZohoTSAutomation\\ZohoTSAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerry\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jerry\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\jerry\\.nuget\\packages\\selenium.support\\4.18.1\\selenium.support.4.18.1.nupkg.sha512",
+    "C:\\Users\\jerry\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}

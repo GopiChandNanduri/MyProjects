@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\gitRepo\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj": {}
+    "H:\\gitPublic\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj": {}
   },
   "projects": {
-    "H:\\gitRepo\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj": {
+    "H:\\gitPublic\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\gitRepo\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj",
+        "projectUniqueName": "H:\\gitPublic\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj",
         "projectName": "GreenDataRobo",
-        "projectPath": "H:\\gitRepo\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj",
+        "projectPath": "H:\\gitPublic\\IGreenDataCoding\\GreenDataRobo\\GreenDataRobo.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "H:\\gitRepo\\IGreenDataCoding\\GreenDataRobo\\obj\\",
+        "outputPath": "H:\\gitPublic\\IGreenDataCoding\\GreenDataRobo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
