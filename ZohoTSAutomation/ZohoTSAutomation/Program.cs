@@ -17,14 +17,14 @@ driver.FindElement(By.ClassName("zgh-login")).Click();
 
 // enter email 
 IWebElement loginBox = driver.FindElement(By.Name("LOGIN_ID"));
-loginBox.SendKeys("gopichand.nanduri@igreendata.com.au");
+loginBox.SendKeys(""); // add email address
 
 // Select Next button with span Next
 driver.FindElement(By.Id("nextbtn")).Click();
 
 // Enter Password 
 IWebElement passwordBox = driver.FindElement(By.Name("PASSWORD"));
-passwordBox.SendKeys("Mahi@2801");
+passwordBox.SendKeys(""); // add password
 
 // Select SignIn button with span "Sign in"
 driver.FindElement(By.Id("nextbtn")).Click();
